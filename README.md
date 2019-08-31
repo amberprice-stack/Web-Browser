@@ -1,5 +1,5 @@
 # Web-Browser
-This web browser with tabs was created in c# using web browser and tab control.
+This web browser with tabs was created in C# using web browser and tab control.
 
 ![web](https://i.ibb.co/TbnPZcT/webbrowser.png)
 
