@@ -1,0 +1,10 @@
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\bin\Debug\Webrowser.exe.config
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\bin\Debug\Webrowser.exe
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\bin\Debug\Webrowser.pdb
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\obj\Debug\Webrowser.csprojAssemblyReference.cache
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\obj\Debug\Webrowser.Form1.resources
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\obj\Debug\Webrowser.Properties.Resources.resources
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\obj\Debug\Webrowser.csproj.GenerateResource.cache
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\obj\Debug\Webrowser.csproj.CoreCompileInputs.cache
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\obj\Debug\Webrowser.exe
+C:\Users\Amber\Documents\Visual Studio 2019\Webrowser\Webrowser\obj\Debug\Webrowser.pdb
